@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "heroes_realms",
-    "slug": "heroes_realms",
+    "slug": "heroes-realms-count",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "bb57de52-dda9-4822-aac6-cbf69b942463"
+      }
+    },
+    "owner": "vitaly958"
   }
 }
